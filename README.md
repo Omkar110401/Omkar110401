@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omkar110401
-- 👀 I’m interested in Data Structures, Web-development, Machine Learning.
-- 💞️ I’m looking to contribute for open source projects.
+- 👀 Interested in Data Structures, Web-development, Machine Learning.
+- 💞️ Interested to contribute for open source projects.
 - 📫 You can reach me through omkjoshi.2001@gmail.com.
 
 <!---
